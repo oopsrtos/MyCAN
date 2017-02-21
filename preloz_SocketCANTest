@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "compiling"
+gcc SocketCANTest.c -o SocketCANTest
+

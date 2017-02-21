@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "compiling"
+gcc gcc_test.c -o gcc_test
